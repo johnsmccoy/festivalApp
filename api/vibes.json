@@ -1,0 +1,377 @@
+{
+    "users": [
+     {
+        "username": "",
+        "password": "",
+        "id": ""
+     }
+    ],
+    
+    "festivals": [
+      {
+        "id": 1,
+        "name": "Bonaroo",
+        "location": "Manchester, TN"
+      },
+      {
+        "id": 2,
+        "name": "Coachella",
+        "location": "Indio, CA"
+      },
+      {
+        "id": 3,
+        "name": "Lollapalooza",
+        "location": "Chicago, IL"
+      },
+      {
+        "id": 4,
+        "name": "Hangout Music Festival",
+        "location": "Gulf Shores, AL"
+      },
+      {
+        "id": 5,
+        "name": "Ultra Music Festival",
+        "location": "Miami, FL"
+      },
+      {
+        "id": 6,
+        "name": "Lightning in a Bottle",
+        "location": "Sliverado, CA"
+      },
+      {
+        "id": 7,
+        "name": "Beale Street",
+        "location": "Memphis, TN"
+      },
+      {
+        "id": 8,
+        "name": "Governors Ball",
+        "location": "New York, NY"
+      },
+      {
+        "id": 9,
+        "name": "Austin City Limits",
+        "location": "Austin, TX"
+      },
+      {
+        "id": 10,
+        "name": "Electric Forest Festival",
+        "location": "Rothbury, MI"
+      },
+      {
+        "id": 11,
+        "name": "Sonic Bloom",
+        "location": "Hummingbird Ranch, CO"
+      },
+      {
+        "id": 12,
+        "name": "Electric Daisy Carnival",
+        "location": "Las Vegas, NV"
+      }
+    ],
+  
+    "artists": [
+    {
+      "id": 1,
+      "name": "Kendrick Lamar"
+    },
+    {
+      "id": 2,
+      "name": "The Chainsmokers"
+    },
+    {
+      "id": 3,
+      "name": "The Killers"
+    },
+    {
+      "id": 4,
+      "name": "Halsey"
+    },
+    {
+      "id": 5,
+      "name": "Odesza"
+    },
+    {
+      "id": 6,
+      "name": "Logic"
+    },
+    {
+      "id": 7,
+      "name": "Zedd"
+    },
+    {
+      "id": 8,
+      "name": "SZA"
+    },
+    {
+      "id": 9,
+      "name": "Portgal The Man"
+    },
+    {
+      "id": 10,
+      "name": "St. Vincent"
+    },
+    {
+      "id": 11,
+      "name": "Foster The People"
+    },
+    {
+      "id": 12,
+      "name": "Anderson .Paak & The Free Nationals"
+    },
+    {
+      "id": 13,
+      "name": "Galantis"
+    },
+    {
+      "id": 14,
+      "name": "Phantogram"
+    },
+    {
+      "id": 15,
+      "name": "Cold War Kids"
+    },
+    {
+      "id": 16,
+      "name": "Big Boi"
+    },
+    {
+      "id": 17,
+      "name": "Grouplove"
+    },
+    {
+      "id": 18,
+      "name": "Bleachers"
+    },
+    {
+      "id": 19,
+      "name": "AWOLNATION"
+    },
+    {
+      "id": 20,
+      "name": "Slightly Stoopid"
+    },
+    {
+      "id": 21,
+      "name": "T-Pain"
+    },
+    {
+      "id": 22,
+      "name": "Oh Wonder"
+    },
+    {
+      "id": 23,
+      "name": "Manchester Orchestra"
+    },
+    {
+      "id": 24,
+      "name": "The Struts"
+    },
+    {
+      "id": 25,
+      "name": "K.Flay"
+    },
+    {
+      "id": 26,
+      "name": "NF"
+    },
+    {
+      "id": 27,
+      "name": "Lil Pump"
+    },
+    {
+      "id": 28,
+      "name": "Alice Merton"
+    },
+    {
+      "id": 29,
+      "name": "Lauv"
+    },
+    {
+      "id": 30,
+      "name": "AJR"
+    },
+    {
+      "id": 31,
+      "name": "Getter"
+    },
+    {
+      "id": 32,
+      "name": "Tash Sultana"
+    },
+    {
+      "id": 33,
+      "name": "Cashmere Cat"
+    },
+    {
+      "id": 34,
+      "name": "Dej Loaf"
+    },
+    {
+      "id": 35,
+      "name": "Tank and the Bangas"
+    },
+    {
+      "id": 36,
+      "name": "San Holo"
+    },
+    {
+      "id": 37,
+      "name": "Max"
+    },
+    {
+      "id": 38,
+      "name": "The Knocks"
+    },
+    {
+      "id": 39,
+      "name": "Whethan"
+    },
+    {
+      "id": 40,
+      "name": "Bahamas"
+    },
+    {
+      "id": 41,
+      "name": "Greta Van Fleet"
+    },
+    {
+      "id": 42,
+      "name": "Eminem"
+    },
+    {
+      "id": 43,
+      "name": "Bassnectar"
+    },
+    {
+      "id": 44,
+      "name": "Kaskade"
+    },
+    {
+      "id": 45,
+      "name": "Bon Iver"
+    },
+    {
+      "id": 46,
+      "name": "Muse"
+    },
+    {
+      "id": 47,
+      "name": "Alt-J"
+    },
+    {
+      "id": 48,
+      "name": "Moon Taxi"
+    },
+    {
+      "id": 49,
+      "name": "The Glitch Mob"
+    },
+    {
+      "id": 50,
+      "name": "STS9"
+    },
+    {
+      "id": 51,
+      "name": "Old Crow Medicine Show"
+    },
+    {
+      "id": 52,
+      "name": "Brothers Osborne"
+    },
+    {
+      "id": 53,
+      "name": "The Revivalists"
+    },
+    {
+      "id": 54,
+      "name": "Carnage"
+    },
+    {
+      "id": 55,
+      "name": "GRIZ"
+    },
+    {
+      "id": 56,
+      "name": "The String Cheese Incident"
+    },
+    {
+      "id": 57,
+      "name": "Chromeo"
+    },
+    {
+      "id": 58,
+      "name": "Marshmello"
+    },
+    {
+      "id": 59,
+      "name": "The Weeknd"
+    },
+    {
+      "id": 60,
+      "name": "Jack White"
+    },
+    {
+      "id": 61,
+      "name": "Post Malone"
+    },
+    {
+      "id": 62,
+      "name": "Dillon Francis"
+    },
+    {
+      "id": 63,
+      "name": "Artic Monkeys"
+    },
+    {
+      "id": 64,
+      "name": "Incubus"
+    },
+    {
+      "id": 65,
+      "name": "Tyler, The Creator"
+    }
+  ],
+  "artistsFestivals": [
+    {
+      "id": 1,
+      "festivalId": 1,
+      "artistId": 1
+    },
+    {
+      "id": 1,
+      "festivalId": 1,
+      "artistId": 1
+    },
+    {
+      "id": 1,
+      "festivalId": 1,
+      "artistId": 1
+    },
+    {
+      "id": 1,
+      "festivalId": 1,
+      "artistId": 1
+    },
+    {
+      "id": 1,
+      "festivalId": 1,
+      "artistId": 1
+    },
+    {
+      "id": 1,
+      "festivalId": 1,
+      "artistId": 1
+    },
+    {
+      "id": 1,
+      "festivalId": 1,
+      "artistId": 1
+    },
+    {
+      "id": 1,
+      "festivalId": 1,
+      "artistId": 1
+    }
+  ]
+  }
