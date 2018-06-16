@@ -1,9 +1,14 @@
 {
     "users": [
      {
-        "username": "",
-        "password": "",
-        "id": ""
+        "username": "johnmccoy",
+        "password": "none",
+        "id": "1"
+     },
+     {
+        "username": "will hatchel",
+        "password": "none",
+        "id": "2"
      }
     ],
     
@@ -339,39 +344,719 @@
       "artistId": 1
     },
     {
-      "id": 1,
+      "id": 2,
       "festivalId": 1,
+      "artistId": 2
+    },
+    {
+      "id": 3,
+      "festivalId": 1,
+      "artistId": 3
+    },
+    {
+      "id": 4,
+      "festivalId": 1,
+      "artistId": 4
+    },
+    {
+      "id": 5,
+      "festivalId": 1,
+      "artistId": 5 
+    },
+    {
+      "id": 6,
+      "festivalId": 1,
+      "artistId": 6
+    },
+    {
+      "id": 7,
+      "festivalId": 1,
+      "artistId": 7
+    },
+    {
+      "id": 8,
+      "festivalId": 1,
+      "artistId": 8
+    },
+    {
+      "id": 9,
+      "festivalId": 1,
+      "artistId": 9
+    },
+    {
+      "id": 10,
+      "festivalId": 1,
+      "artistId": 10
+    },
+    {
+      "id":11,
+      "festivalId": 1,
+      "artistId": 11
+    },
+    {
+      "id": 12,
+      "festivalId": 1,
+      "artistId": 12
+    },
+    {
+      "id": 13,
+      "festivalId": 2,
+      "artistId": 13
+    },
+    {
+      "id": 14,
+      "festivalId": 2,
+      "artistId": 14
+    },
+    {
+      "id": 15,
+      "festivalId": 2,
+      "artistId": 15
+    },
+    {
+      "id": 16,
+      "festivalId": 2,
+      "artistId": 16
+    },
+    {
+      "id": 17,
+      "festivalId": 2,
+      "artistId": 17
+    },
+    {
+      "id": 18,
+      "festivalId": 2,
+      "artistId": 18
+    },
+    {
+      "id": 19,
+      "festivalId": 2,
+      "artistId": 19
+    },
+    {
+      "id": 20,
+      "festivalId": 2,
+      "artistId": 20
+    },
+    {
+      "id": 21,
+      "festivalId": 2,
+      "artistId": 21
+    },
+    {
+      "id": 22,
+      "festivalId": 2,
+      "artistId": 22
+    },
+    {
+      "id": 23,
+      "festivalId": 2,
+      "artistId": 23
+    },
+    {
+      "id": 24,
+      "festivalId": 2,
+      "artistId": 24
+    },
+    {
+      "id": 25,
+      "festivalId": 3,
+      "artistId": 25
+    },
+    {
+      "id": 26,
+      "festivalId": 3,
+      "artistId": 26
+    },
+    {
+      "id": 27,
+      "festivalId": 3,
+      "artistId": 27
+    },
+    {
+      "id": 28,
+      "festivalId": 3,
+      "artistId": 28
+    },
+    {
+      "id": 29,
+      "festivalId": 3,
+      "artistId": 29
+    },
+    {
+      "id": 30,
+      "festivalId": 3,
+      "artistId": 30
+    },
+    {
+      "id": 31,
+      "festivalId": 3,
+      "artistId": 31
+    },
+    {
+      "id": 32,
+      "festivalId": 3,
+      "artistId": 32
+    },
+    {
+      "id": 33,
+      "festivalId": 3,
+      "artistId": 33
+    },
+    {
+      "id": 34,
+      "festivalId": 3,
+      "artistId": 34
+    },
+    {
+      "id": 35,
+      "festivalId": 3,
+      "artistId": 35
+    },
+    {
+      "id": 36,
+      "festivalId": 3,
+      "artistId": 36
+    },
+    {
+      "id": 37,
+      "festivalId": 4,
+      "artistId": 37
+    },
+    {
+      "id": 38,
+      "festivalId": 4,
+      "artistId": 38
+    },
+    {
+      "id": 39,
+      "festivalId": 4,
+      "artistId": 39
+    },
+    {
+      "id": 40,
+      "festivalId": 4,
+      "artistId": 40
+    },
+    {
+      "id": 41,
+      "festivalId": 4,
+      "artistId": 41
+    },
+    {
+      "id": 42,
+      "festivalId": 4,
+      "artistId": 42
+    },
+    {
+      "id": 43,
+      "festivalId": 4,
+      "artistId": 43
+    },
+    {
+      "id": 44,
+      "festivalId": 4,
+      "artistId": 44
+    },
+    {
+      "id": 45,
+      "festivalId": 4,
+      "artistId": 45
+    },
+    {
+      "id": 46,
+      "festivalId": 4,
+      "artistId": 46
+    },
+    {
+      "id": 47,
+      "festivalId": 4,
+      "artistId": 47
+    },
+    {
+      "id": 48,
+      "festivalId": 4,
+      "artistId": 48
+    },
+    {
+      "id": 49,
+      "festivalId": 5,
+      "artistId": 49
+    },
+    {
+      "id": 50,
+      "festivalId": 5,
+      "artistId": 50
+    },
+    {
+      "id": 51,
+      "festivalId": 5,
+      "artistId": 51
+    },
+    {
+      "id": 52,
+      "festivalId": 5,
+      "artistId": 52
+    },
+    {
+      "id": 53,
+      "festivalId": 5,
+      "artistId": 53
+    },
+    {
+      "id": 54,
+      "festivalId": 5,
+      "artistId": 54
+    },
+    {
+      "id": 55,
+      "festivalId": 5,
+      "artistId": 55
+    },
+    {
+      "id": 56,
+      "festivalId": 5,
+      "artistId": 56
+    },
+    {
+      "id": 57,
+      "festivalId": 5,
+      "artistId": 57
+    },
+    {
+      "id": 58,
+      "festivalId": 5,
+      "artistId": 58
+    },
+    {
+      "id": 59,
+      "festivalId": 5,
+      "artistId": 59
+    },
+    {
+      "id": 60,
+      "festivalId": 5,
+      "artistId": 60
+    },
+    {
+      "id": 61,
+      "festivalId": 6,
+      "artistId": 61
+    },
+    {
+      "id": 62,
+      "festivalId": 6,
+      "artistId": 62
+    },
+    {
+      "id": 63,
+      "festivalId": 6,
+      "artistId": 63
+    },
+    {
+      "id": 64,
+      "festivalId": 6,
+      "artistId": 64
+    },
+    {
+      "id": 65,
+      "festivalId": 6,
+      "artistId": 65
+    },
+    {
+      "id": 66,
+      "festivalId": 6,
       "artistId": 1
     },
     {
-      "id": 1,
-      "festivalId": 1,
+      "id": 67,
+      "festivalId": 6,
+      "artistId": 2
+    },
+    {
+      "id": 68,
+      "festivalId": 6,
+      "artistId": 3
+    },
+    {
+      "id": 69,
+      "festivalId": 6,
+      "artistId": 4
+    },
+    {
+      "id": 70,
+      "festivalId": 6,
+      "artistId": 5
+    },
+    {
+      "id": 71,
+      "festivalId": 6,
+      "artistId": 6
+    },
+    {
+      "id": 72,
+      "festivalId": 6,
+      "artistId": 7
+    },
+    {
+      "id": 73,
+      "festivalId": 7,
+      "artistId": 8
+    },
+    {
+      "id": 74,
+      "festivalId": 7,
+      "artistId": 9
+    },
+    {
+      "id": 75,
+      "festivalId": 7,
+      "artistId": 10
+    },
+    {
+      "id": 76,
+      "festivalId": 7,
+      "artistId": 11
+    },
+    {
+      "id": 77,
+      "festivalId": 7,
+      "artistId": 12
+    },
+    {
+      "id": 78,
+      "festivalId": 7,
+      "artistId": 13
+    },
+    {
+      "id": 79,
+      "festivalId": 7,
+      "artistId": 14
+    },
+    {
+      "id": 80,
+      "festivalId": 7,
+      "artistId": 15
+    },
+    {
+      "id": 81,
+      "festivalId": 7,
+      "artistId": 16
+    },
+    {
+      "id": 82,
+      "festivalId": 7,
+      "artistId": 17
+    },
+    {
+      "id": 83,
+      "festivalId": 7,
+      "artistId": 18
+    },
+    {
+      "id": 84,
+      "festivalId": 7,
+      "artistId": 19
+    },
+    {
+      "id": 85,
+      "festivalId": 8,
+      "artistId": 20
+    },
+    {
+      "id": 86,
+      "festivalId": 8,
+      "artistId": 21
+    },
+    {
+      "id": 87,
+      "festivalId": 8,
+      "artistId": 22
+    },
+    {
+      "id": 88,
+      "festivalId": 8,
+      "artistId": 23
+    },
+    {
+      "id": 89,
+      "festivalId": 8,
+      "artistId": 24
+    },
+    {
+      "id": 90,
+      "festivalId": 8,
+      "artistId": 25
+    },
+    {
+      "id": 91,
+      "festivalId": 8,
+      "artistId": 26
+    },
+    {
+      "id": 92,
+      "festivalId": 8,
+      "artistId": 27
+    },
+    {
+      "id": 93,
+      "festivalId": 8,
+      "artistId": 28
+    },
+    {
+      "id": 94,
+      "festivalId": 8,
+      "artistId": 29
+    },
+    {
+      "id": 95,
+      "festivalId": 8,
+      "artistId": 30
+    },
+    {
+      "id": 96,
+      "festivalId": 8,
+      "artistId": 31
+    },
+    {
+      "id": 97,
+      "festivalId": 9,
+      "artistId": 32
+    },
+    {
+      "id": 98,
+      "festivalId": 9,
+      "artistId": 33
+    },
+    {
+      "id": 99,
+      "festivalId": 9,
+      "artistId": 34
+    },
+    {
+      "id": 100,
+      "festivalId": 9,
+      "artistId": 35
+    },
+    {
+      "id": 101,
+      "festivalId": 9,
+      "artistId": 36
+    },
+    {
+      "id": 102,
+      "festivalId": 9,
+      "artistId": 37
+    },
+    {
+      "id": 103,
+      "festivalId": 9,
+      "artistId": 38
+    },
+    {
+      "id": 104,
+      "festivalId": 9,
+      "artistId": 39
+    },
+    {
+      "id": 105,
+      "festivalId": 9,
+      "artistId": 40
+    },
+    {
+      "id": 106,
+      "festivalId": 9,
+      "artistId": 41
+    },
+    {
+      "id": 107,
+      "festivalId": 9,
+      "artistId": 42
+    },
+    {
+      "id": 108,
+      "festivalId": 9,
+      "artistId": 43
+    },
+    {
+      "id": 109,
+      "festivalId": 10,
+      "artistId": 44
+    },
+    {
+      "id": 110,
+      "festivalId": 10,
+      "artistId": 45
+    },
+    {
+      "id": 111,
+      "festivalId": 10,
+      "artistId": 46
+    },
+    {
+      "id": 112,
+      "festivalId": 10,
+      "artistId": 47
+    },
+    {
+      "id": 113,
+      "festivalId": 10,
+      "artistId": 48
+    },
+    {
+      "id": 114,
+      "festivalId": 10,
+      "artistId": 49
+    },
+    {
+      "id": 115,
+      "festivalId": 10,
+      "artistId": 50
+    },
+    {
+      "id": 116,
+      "festivalId": 10,
+      "artistId": 51
+    },
+    {
+      "id": 117,
+      "festivalId": 10,
+      "artistId": 52
+    },
+    {
+      "id": 118,
+      "festivalId": 10,
+      "artistId": 53
+    },
+    {
+      "id": 119,
+      "festivalId": 10,
+      "artistId": 54
+    },
+    {
+      "id": 120,
+      "festivalId": 10,
+      "artistId": 55
+    },
+    {
+      "id": 121,
+      "festivalId": 11,
+      "artistId": 56
+    },
+    {
+      "id": 122,
+      "festivalId": 11,
+      "artistId": 57
+    },
+    {
+      "id": 123,
+      "festivalId": 11,
+      "artistId": 58
+    },
+    {
+      "id": 124,
+      "festivalId": 11,
+      "artistId": 59
+    },
+    {
+      "id": 125,
+      "festivalId": 11,
+      "artistId": 60
+    },
+    {
+      "id": 126,
+      "festivalId": 11,
+      "artistId": 61
+    },
+    {
+      "id": 127,
+      "festivalId": 11,
+      "artistId": 62
+    },
+    {
+      "id": 128,
+      "festivalId": 11,
+      "artistId": 63
+    },
+    {
+      "id": 129,
+      "festivalId": 11,
+      "artistId": 64
+    },
+    {
+      "id": 130,
+      "festivalId": 11,
+      "artistId": 65
+    },
+    {
+      "id": 131,
+      "festivalId": 11,
       "artistId": 1
     },
     {
-      "id": 1,
-      "festivalId": 1,
-      "artistId": 1
+      "id": 132,
+      "festivalId": 11,
+      "artistId": 2
     },
     {
-      "id": 1,
-      "festivalId": 1,
-      "artistId": 1
+      "id": 133,
+      "festivalId": 12,
+      "artistId": 3
     },
     {
-      "id": 1,
-      "festivalId": 1,
-      "artistId": 1
+      "id": 134,
+      "festivalId": 12,
+      "artistId": 4
     },
     {
-      "id": 1,
-      "festivalId": 1,
-      "artistId": 1
+      "id": 135,
+      "festivalId": 12,
+      "artistId": 5
     },
     {
-      "id": 1,
-      "festivalId": 1,
-      "artistId": 1
+      "id": 136,
+      "festivalId": 12,
+      "artistId": 6
+    },
+    {
+      "id": 137,
+      "festivalId": 12,
+      "artistId": 7
+    },
+    {
+      "id": 138,
+      "festivalId": 12,
+      "artistId": 8
+    },
+    {
+      "id": 139,
+      "festivalId": 12,
+      "artistId": 9
+    },
+    {
+      "id": 140,
+      "festivalId": 12,
+      "artistId": 10
+    },
+    {
+      "id": 141,
+      "festivalId": 12,
+      "artistId": 11
+    },
+    {
+      "id": 142,
+      "festivalId": 12,
+      "artistId": 12
+    },
+    {
+      "id": 143,
+      "festivalId": 12,
+      "artistId": 13
+    },
+    {
+      "id": 144,
+      "festivalId": 12,
+      "artistId": 14
     }
   ]
   }
