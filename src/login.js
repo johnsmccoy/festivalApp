@@ -67,13 +67,7 @@ export default class Login extends Component {
   registerButtonClick = () => {
     this.props.showView("register");
   };
-
-  /*
-        TODO:
-            - Add first name field
-            - Add last name field
-            - Add password verification field
-    */
+  
   render() {
     return (
       <div className="formDiv">

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Login from './login'
+import Register from './register'
 
 class App extends Component {
   setActiveUser = function(val){
