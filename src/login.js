@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import App from './App'
 // import "./login.css";
 
 export default class Login extends Component {
@@ -67,11 +66,11 @@ export default class Login extends Component {
   registerButtonClick = () => {
     this.props.showView("register");
   };
-  
+
   render() {
     return (
       <div className="formDiv">
-        <form className="form-signin" onSubmit={this.handleLogin}>
+        <form className="form-signin">
           <h1 className="h3 mb-3 font-weight-normal">Please sign in</h1>
           <label htmlFor="inputEmail" className="sr-only">
             User Name
@@ -101,7 +100,7 @@ export default class Login extends Component {
           <div className="checkbox mb-3">
             <input type="checkbox" value="remember-me" /> Remember me
           </div>
-          <button className="btn btn-lg btn-primary btn-block" type="submit">
+          <button onClick={this.handleLogin} type="submit">
             Sign in
           </button>
 
