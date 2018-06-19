@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import App from './App'
 
 class Register extends Component {
   constructor(props) {
@@ -15,7 +14,7 @@ class Register extends Component {
   }
 
   usernameChange(event) {
-    this.setState({ firstname: event.target.value });
+    this.setState({ username: event.target.value });
   }
 
   passwordChange(event) {
@@ -42,7 +41,7 @@ class Register extends Component {
             .getElementById("emailExistsAlert")
             .removeAttribute("class", "emailexists");
 
-          // if doesn't exist, add to user db and forward to login page, passing email/password
+          // if doesn't exist, add to user db and forward to login page, passing username/password
         } else {
           fetch("http://localhost:8088/users", {
             method: "POST",
@@ -86,7 +85,7 @@ class Register extends Component {
             />
           <input type="submit" value="Submit" className="btn btn-lg btn-info btn-block"/>
           <div id="userExistsAlert" className="userexists">
-          <p>That email address already exists. Click here to log in.</p>
+          <p>That user name already exists. Click here to log in.</p>
         </div>
         </form>
       </div>
