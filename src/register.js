@@ -38,8 +38,8 @@ class Register extends Component {
         // Convert user to string to get undefined if empty (instead of empty array)
         if (user.toString()) {
           document
-            .getElementById("emailExistsAlert")
-            .removeAttribute("class", "emailexists");
+            .getElementById("userExistsAlert")
+            .removeAttribute("class", "userexists");
 
           // if doesn't exist, add to user db and forward to login page, passing username/password
         } else {

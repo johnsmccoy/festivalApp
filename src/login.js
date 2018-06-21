@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-// import "./login.css";
+import App from './App';
 
 export default class Login extends Component {
   constructor(props) {
@@ -23,20 +23,20 @@ export default class Login extends Component {
   handleFieldChange = function(evt) {
     const stateToChange = {};
     stateToChange[evt.target.id] = evt.target.value;
-    console.log(stateToChange)
     this.setState(stateToChange);
   }.bind(this);
 
   // Handle for login submit
-  handleLogin = function(e) {
+  handleLogin = (e) => {
     e.preventDefault();
+
 
     // Determine if a user already exists in API
     fetch(
       `http://localhost:8088/users?username=${this.state.username}&password=${this.state.password}`
     )
       .then(r => r.json())
-      .then(user => {
+      .then(function (user) {
         // User exists. Set local storage, and show home view
         if (user.length) {
           this.props.setActiveUser(user[0].id);
@@ -45,23 +45,9 @@ export default class Login extends Component {
           // User doesn't exist
         } else {
           alert("User Name and Password Do Not Match Our Records.");
-          // // Create user in API
-          // fetch("http://localhost:8088/users", {
-          //     method: "POST",
-          //     headers: {
-          //         "Content-Type": "application/json"
-          //     },
-          //     body: JSON.stringify({email: this.state.email, password: this.state.password})
-          // })
-
-          // // Set local storage with newly created user's id and show home view
-          // .then(newUser => {
-          //     this.props.setActiveUser(newUser.id)
-          //     this.props.showView("home")
-          // })
         }
-      });
-  }.bind(this);
+      }.bind(this));
+  }
 
   registerButtonClick = () => {
     this.props.showView("register");
@@ -70,8 +56,8 @@ export default class Login extends Component {
   render() {
     return (
       <div className="formDiv">
-        <form className="form-signin">
-          <h1 className="h3 mb-3 font-weight-normal">Please sign in</h1>
+        <form className="form-signin" onSubmit={this.handleLogin}>
+          <h1 className="h3 mb-3 font-weight-normal">Festival Application</h1>
           <label htmlFor="inputEmail" className="sr-only">
             User Name
           </label>
@@ -100,8 +86,8 @@ export default class Login extends Component {
           <div className="checkbox mb-3">
             <input type="checkbox" value="remember-me" /> Remember me
           </div>
-          <button onClick={this.handleLogin} type="submit">
-            Sign in
+          <button type="submit">
+            Sign In
           </button>
 
           <button
@@ -111,7 +97,7 @@ export default class Login extends Component {
           >
             Register
           </button>
-          <p className="mt-5 mb-3 text-muted">© 2017-2018</p>
+          
         </form>
       </div>
     );
