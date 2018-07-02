@@ -6,14 +6,19 @@
         "id": "1"
      },
      {
-        "username": "markmccoy",
+        "username": "daniel",
         "password": "none",
         "id": "2"
      },
      {
-        "username": "willhatchel",
+        "username": "markmccoy",
         "password": "none",
         "id": "3"
+     },
+     {
+        "username": "willhatchel",
+        "password": "none",
+        "id": "4"
      }
     ],
     
