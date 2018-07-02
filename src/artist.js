@@ -12,6 +12,7 @@ render()
     (
         <div>
             <h2>Welcome to Artist</h2>
+            <h2>Band Name</h2>
         </div>
     )
 }}
