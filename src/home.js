@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Navbar from "./NavBar"
 import App from './App';
 import homestyle from './homestyle.css'
 
