@@ -15,6 +15,7 @@ render()
     (
         <div className="homestyle">
             <h2>hello</h2>
+            <h4>can you see me</h4>
         </div>
     )
 }}
